@@ -216,17 +216,24 @@ The main objective of CareerLens AI is to make career planning easier, smarter a
 
 👩‍💻 Team Members
 
-This project is developed collaboratively by the following team members:
+This project is collaboratively developed by the following team members:
 
-Sr. No.| Team Member Name
-1| Sakshi Dhondiram Bidgar
-2| Madhura Dattatreya Veer
-3| Sanika Balaji Bavale
+1. Sakshi Dhondiram Bidgar
+2. Madhura Dattatreya Veer
+3. Sanika Balaji Bavale
 
-Project Title: AI Career Intelligence & Resume Analyzer
+🎓 Project Details
 
-Project Name: CareerLens AI
+- Project Title: AI Career Intelligence & Resume Analyzer
+- Project Name: CareerLens AI
 
+🔗 GitHub Repository
+
+"CareerLens AI – GitHub" (https://github.com/Sakshi-bidgar96/CareerLens-AI)
+
+---
+
+Developed with ❤️ by Team CareerLens AI
 GitHub: https://github.com/Sakshi-bidgar96
 
 ---
